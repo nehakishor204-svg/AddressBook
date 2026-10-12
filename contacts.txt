@@ -1,0 +1,7 @@
+6
+aswin|9896753421|aswin@mail.com
+kishan singh|0987654321|blue@gmail.com
+neha kishor|5678904321|neha@gmail.com
+sreya|1234567890|green@gmail.com
+jerry|7890563412|jerry@gmail.com
+tom|1290563489|tom@gmail.com
